@@ -1,7 +1,7 @@
 # bootstrap-functions
 This repository holds common functions that can be used in Qubole node bootstraps
 
-## How to use
+## How to use.
 
 Source the required script in your bootstrap script. For example, to mount an EFS volume with the bootstrap, you may do the following:
 
